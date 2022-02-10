@@ -49,9 +49,7 @@ form.addEventListener("submit", function (event) {
 
    if (nameValid && surnameValid && passwordValid && identValid)
    {
-
-      rm.elements["lname"].value + "\nEl identificador es: " + form.elements["identification"].value+ "\nLa contraseña es es: " + form.elements["password"].value + "\nSe ha registrado el usuario correctamente");
-
+      alert("El nombre es: " + form.elements["fname"].value + "\nLos apellidos son: " + form.elements["lname"].value + "\nEl identificador es: " + form.elements["identification"].value+ "\nLa contraseña es es: " + form.elements["password"].value + "\nSe ha registrado el usuario correctamente");
    }
 
 });
