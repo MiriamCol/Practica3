@@ -1,4 +1,4 @@
-# Practica3
+# Práctica3
 Miriam Colino Ruipérez- 201804334
 
 - La página principal es: index.html y las secundarias: UltimasNoticias.html, Registrarse.html, IniciarSesion.html y Proyectos.html
